@@ -6,6 +6,7 @@
 #define PATTERN_RECOGNIZED_YES true
 #define MULTI_LINGUAL_YES true
 
+#define TEAM_SPECTATOR 1
 #define TEAM_ALLIES 2
 #define TEAM_AXIS 3
 

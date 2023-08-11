@@ -1,5 +1,10 @@
 "Phrases"
 {
+    "spectators"
+    {
+        "en"    "spectators"
+    }
+
     "allies"
     {
         "en"    "allies"
