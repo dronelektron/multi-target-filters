@@ -2,6 +2,7 @@
 
 Additional multi-target filters:
 
+* `@spectators` - Spectators
 * `@allies` - All players from USA team
 * `@allies-alive` - Alive players from USA team
 * `@allies-dead` - Dead players from USA team
