@@ -1,0 +1,32 @@
+"Phrases"
+{
+    "allies"
+    {
+        "en"    "allies"
+    }
+
+    "alive allies"
+    {
+        "en"    "alive allies"
+    }
+
+    "dead allies"
+    {
+        "en"    "dead allies"
+    }
+
+    "axis"
+    {
+        "en"    "axis"
+    }
+
+    "alive axis"
+    {
+        "en"    "alive axis"
+    }
+
+    "dead axis"
+    {
+        "en"    "dead axis"
+    }
+}
